@@ -1,0 +1,20 @@
+body{
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: lightgray;
+    font-size: 20px;
+}
+
+h1{
+    text-align: center;
+}
+
+#paragraph-result{
+    margin-top: 50px;
+}
+
+input{
+    width: 200px;
+    margin-top: 5px;
+}
+
